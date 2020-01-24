@@ -1,10 +1,9 @@
-Anagha Sarmalkar
-asarmalk@uncc.edu
+The goal of this programming assignment is to implement an inverted index and query mechanismfor an input set of documents using Hadoop.  An inverted index is a mapping of words to the IDsof the documents in which they appear (and possibly also their locations in the documents).  Mostmodern information retrieval systems and search engines utilize some form of an inverted index toprocess user-submitted queries.
 
 This code can be run on VM or DSBA Hadoop cluster.
 
 Create directory and input directory on HDFS
-Store all the input files on thsi directory in Hadoop
+Store all the input files on this directory in Hadoop
 
 
 SIMPLE and FULL INVERTED INDEX
