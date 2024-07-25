@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 # Inverted Index and Query Mechanism for Documents Using Hadoop
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT -->
+## About
 An inverted index is a mapping of words to the IDs of the documents in which they appear (and possibly also their locations in the documents).  Most modern information retrieval systems and search engines utilize some form of an inverted index to process user-submitted queries.
 
 ## Usage
